@@ -10,7 +10,7 @@ func main() {
 	}
 
 	/*
-	Dentro da linguagem Go, não existe o comando "while".
+	Dentro da linguagem Go, não existe o comando "while". 9
 	Mas é possível realizar um laço infinito omitindo a condição.
 	*/
 
